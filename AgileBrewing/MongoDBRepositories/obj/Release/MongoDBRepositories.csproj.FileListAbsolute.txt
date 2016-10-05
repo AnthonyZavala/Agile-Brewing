@@ -1,0 +1,26 @@
+D:\Repos\Agile Brewing\AgileBrewing\MongoDBRepositories\bin\Release\MongoDBRepositories.dll
+D:\Repos\Agile Brewing\AgileBrewing\MongoDBRepositories\bin\Release\MongoDBRepositories.pdb
+D:\Repos\Agile Brewing\AgileBrewing\MongoDBRepositories\bin\Release\Core.dll
+D:\Repos\Agile Brewing\AgileBrewing\MongoDBRepositories\bin\Release\MongoDB.Bson.dll
+D:\Repos\Agile Brewing\AgileBrewing\MongoDBRepositories\bin\Release\MongoDB.Driver.Core.dll
+D:\Repos\Agile Brewing\AgileBrewing\MongoDBRepositories\bin\Release\MongoDB.Driver.dll
+D:\Repos\Agile Brewing\AgileBrewing\MongoDBRepositories\bin\Release\Core.pdb
+D:\Repos\Agile Brewing\AgileBrewing\MongoDBRepositories\bin\Release\MongoDB.Bson.xml
+D:\Repos\Agile Brewing\AgileBrewing\MongoDBRepositories\bin\Release\MongoDB.Driver.xml
+D:\Repos\Agile Brewing\AgileBrewing\MongoDBRepositories\bin\Release\MongoDB.Driver.Core.xml
+D:\Repos\Agile Brewing\AgileBrewing\MongoDBRepositories\obj\Release\MongoDBRepositories.csprojResolveAssemblyReference.cache
+D:\Repos\Agile Brewing\AgileBrewing\MongoDBRepositories\obj\Release\MongoDBRepositories.dll
+D:\Repos\Agile Brewing\AgileBrewing\MongoDBRepositories\obj\Release\MongoDBRepositories.pdb
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\MongoDBRepositories\bin\Release\MongoDBRepositories.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\MongoDBRepositories\bin\Release\MongoDBRepositories.pdb
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\MongoDBRepositories\bin\Release\Core.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\MongoDBRepositories\bin\Release\MongoDB.Bson.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\MongoDBRepositories\bin\Release\MongoDB.Driver.Core.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\MongoDBRepositories\bin\Release\MongoDB.Driver.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\MongoDBRepositories\bin\Release\Core.pdb
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\MongoDBRepositories\bin\Release\MongoDB.Bson.xml
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\MongoDBRepositories\bin\Release\MongoDB.Driver.xml
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\MongoDBRepositories\bin\Release\MongoDB.Driver.Core.xml
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\MongoDBRepositories\obj\Release\MongoDBRepositories.csprojResolveAssemblyReference.cache
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\MongoDBRepositories\obj\Release\MongoDBRepositories.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\MongoDBRepositories\obj\Release\MongoDBRepositories.pdb

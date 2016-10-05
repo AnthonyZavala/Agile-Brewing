@@ -1,0 +1,16 @@
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\SQLiteRepositories\bin\Release\SQLiteRepositories.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\SQLiteRepositories\bin\Release\SQLiteRepositories.pdb
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\SQLiteRepositories\bin\Release\Core.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\SQLiteRepositories\bin\Release\FluentNHibernate.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\SQLiteRepositories\bin\Release\Iesi.Collections.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\SQLiteRepositories\bin\Release\NHibernate.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\SQLiteRepositories\bin\Release\System.Data.SQLite.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\SQLiteRepositories\bin\Release\Core.pdb
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\SQLiteRepositories\bin\Release\FluentNHibernate.pdb
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\SQLiteRepositories\bin\Release\FluentNHibernate.xml
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\SQLiteRepositories\bin\Release\Iesi.Collections.xml
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\SQLiteRepositories\bin\Release\NHibernate.xml
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\SQLiteRepositories\bin\Release\System.Data.SQLite.xml
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\SQLiteRepositories\obj\Release\SQLiteRepositories.csprojResolveAssemblyReference.cache
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\SQLiteRepositories\obj\Release\SQLiteRepositories.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\SQLiteRepositories\obj\Release\SQLiteRepositories.pdb

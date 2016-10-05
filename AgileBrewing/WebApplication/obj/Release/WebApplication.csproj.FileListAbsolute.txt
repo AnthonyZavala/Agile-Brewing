@@ -1,0 +1,342 @@
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\ApplicationInsights.config
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\roslyn\csc.exe
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\roslyn\csc.exe.config
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\roslyn\csc.rsp
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\roslyn\csi.exe
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\roslyn\csi.rsp
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\roslyn\System.AppContext.dll
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\roslyn\System.Collections.Immutable.dll
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\roslyn\System.IO.FileSystem.dll
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\roslyn\System.Reflection.Metadata.dll
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\roslyn\vbc.exe
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\roslyn\vbc.exe.config
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\roslyn\vbc.rsp
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\roslyn\VBCSCompiler.exe
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\roslyn\VBCSCompiler.exe.config
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\WebApplication.dll.config
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\WebApplication.dll
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\WebApplication.pdb
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\Core.dll
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\Microsoft.AI.DependencyCollector.dll
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\Microsoft.AI.Web.dll
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\Microsoft.AI.WindowsServer.dll
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\Microsoft.ApplicationInsights.dll
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\Microsoft.Data.Edm.dll
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\Microsoft.Data.OData.dll
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\Microsoft.OData.Core.dll
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\Microsoft.OData.Edm.dll
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\Microsoft.Practices.ServiceLocation.dll
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\Microsoft.Practices.Unity.Configuration.dll
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\Microsoft.Practices.Unity.dll
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\Microsoft.Practices.Unity.WebApi.dll
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\Microsoft.Spatial.dll
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\Microsoft.Web.Infrastructure.dll
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\MongoDBRepositories.dll
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\Newtonsoft.Json.dll
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\System.Net.Http.Formatting.dll
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\System.Spatial.dll
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\System.Web.Helpers.dll
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\System.Web.Http.dll
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\System.Web.Http.OData.dll
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\System.Web.Http.WebHost.dll
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\System.Web.Mvc.dll
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\System.Web.OData.dll
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\System.Web.Razor.dll
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\System.Web.WebPages.Deployment.dll
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\System.Web.WebPages.dll
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\System.Web.WebPages.Razor.dll
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\WebActivatorEx.dll
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\Core.pdb
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\MongoDBRepositories.pdb
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\Microsoft.AI.DependencyCollector.xml
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\Microsoft.AI.Web.xml
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\Microsoft.AI.WindowsServer.xml
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\Microsoft.ApplicationInsights.xml
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\Microsoft.Data.Edm.xml
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\Microsoft.Data.OData.xml
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\Microsoft.OData.Core.xml
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\Microsoft.OData.Edm.xml
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\Microsoft.Practices.ServiceLocation.pdb
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\Microsoft.Practices.ServiceLocation.xml
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\Microsoft.Practices.Unity.xml
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\Microsoft.Practices.Unity.Configuration.xml
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\Microsoft.Practices.Unity.WebApi.xml
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\Microsoft.Spatial.xml
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\Newtonsoft.Json.xml
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\System.Spatial.xml
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\System.Web.Helpers.xml
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\System.Web.Http.OData.xml
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\System.Web.Mvc.xml
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\System.Web.OData.xml
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\System.Web.Razor.xml
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\System.Web.WebPages.xml
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\System.Web.WebPages.Deployment.xml
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\System.Web.WebPages.Razor.xml
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\System.Net.Http.Formatting.xml
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\System.Web.Http.xml
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\System.Web.Http.WebHost.xml
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\de\Microsoft.Data.Edm.resources.dll
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\es\Microsoft.Data.Edm.resources.dll
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\it\Microsoft.Data.Edm.resources.dll
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\de\Microsoft.Data.OData.resources.dll
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\es\Microsoft.Data.OData.resources.dll
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\fr\Microsoft.Data.OData.resources.dll
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\it\Microsoft.Data.OData.resources.dll
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\ja\Microsoft.Data.OData.resources.dll
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\ko\Microsoft.Data.OData.resources.dll
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\ru\Microsoft.Data.OData.resources.dll
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\de\Microsoft.OData.Core.resources.dll
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\es\Microsoft.OData.Core.resources.dll
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\fr\Microsoft.OData.Core.resources.dll
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\it\Microsoft.OData.Core.resources.dll
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\ja\Microsoft.OData.Core.resources.dll
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\ko\Microsoft.OData.Core.resources.dll
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\ru\Microsoft.OData.Core.resources.dll
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\zh-Hans\Microsoft.OData.Core.resources.dll
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\zh-Hant\Microsoft.OData.Core.resources.dll
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\de\Microsoft.OData.Edm.resources.dll
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\es\Microsoft.OData.Edm.resources.dll
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\fr\Microsoft.OData.Edm.resources.dll
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\it\Microsoft.OData.Edm.resources.dll
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\ja\Microsoft.OData.Edm.resources.dll
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\ko\Microsoft.OData.Edm.resources.dll
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\ru\Microsoft.OData.Edm.resources.dll
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\zh-Hans\Microsoft.OData.Edm.resources.dll
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\zh-Hant\Microsoft.OData.Edm.resources.dll
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\de\Microsoft.Spatial.resources.dll
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\es\Microsoft.Spatial.resources.dll
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\fr\Microsoft.Spatial.resources.dll
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\it\Microsoft.Spatial.resources.dll
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\ja\Microsoft.Spatial.resources.dll
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\ko\Microsoft.Spatial.resources.dll
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\ru\Microsoft.Spatial.resources.dll
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\zh-Hans\Microsoft.Spatial.resources.dll
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\zh-Hant\Microsoft.Spatial.resources.dll
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\de\System.Spatial.resources.dll
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\es\System.Spatial.resources.dll
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\fr\System.Spatial.resources.dll
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\it\System.Spatial.resources.dll
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\ja\System.Spatial.resources.dll
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\ko\System.Spatial.resources.dll
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\ru\System.Spatial.resources.dll
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\zh-Hans\System.Spatial.resources.dll
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\bin\zh-Hant\System.Spatial.resources.dll
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\obj\Release\WebApplication.csprojResolveAssemblyReference.cache
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\obj\Release\WebApplication.dll
+D:\Repos\Agile Brewing\AgileBrewing\WebApplication\obj\Release\WebApplication.pdb
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\ApplicationInsights.config
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\roslyn\csc.exe
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\roslyn\csc.exe.config
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\roslyn\csc.rsp
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\roslyn\csi.exe
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\roslyn\csi.rsp
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\roslyn\System.AppContext.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\roslyn\System.Collections.Immutable.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\roslyn\System.IO.FileSystem.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\roslyn\System.Reflection.Metadata.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\roslyn\vbc.exe
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\roslyn\vbc.exe.config
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\roslyn\vbc.rsp
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\roslyn\VBCSCompiler.exe
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\roslyn\VBCSCompiler.exe.config
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\WebApplication.dll.config
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\WebApplication.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\WebApplication.pdb
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\Core.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\Microsoft.AI.DependencyCollector.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\Microsoft.AI.Web.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\Microsoft.AI.WindowsServer.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\Microsoft.ApplicationInsights.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\Microsoft.Data.Edm.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\Microsoft.Data.OData.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\Microsoft.OData.Core.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\Microsoft.OData.Edm.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\Microsoft.Owin.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\Microsoft.Owin.Security.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\Microsoft.Owin.Security.Google.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\Microsoft.Practices.ServiceLocation.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\Microsoft.Practices.Unity.Configuration.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\Microsoft.Practices.Unity.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\Microsoft.Practices.Unity.WebApi.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\Microsoft.Spatial.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\Microsoft.Web.Infrastructure.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\MongoDBRepositories.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\Newtonsoft.Json.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\Owin.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\SQLiteRepositories.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\System.Data.SQLite.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\System.Net.Http.Formatting.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\System.Spatial.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\System.Web.Helpers.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\System.Web.Http.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\System.Web.Http.OData.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\System.Web.Http.Owin.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\System.Web.Http.WebHost.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\System.Web.Mvc.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\System.Web.OData.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\System.Web.Razor.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\System.Web.WebPages.Deployment.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\System.Web.WebPages.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\System.Web.WebPages.Razor.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\WebActivatorEx.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\MongoDB.Driver.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\MongoDB.Driver.Core.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\NHibernate.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\FluentNHibernate.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\MongoDB.Bson.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\Iesi.Collections.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\Core.pdb
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\MongoDBRepositories.pdb
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\SQLiteRepositories.pdb
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\Microsoft.AI.DependencyCollector.xml
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\Microsoft.AI.Web.xml
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\Microsoft.AI.WindowsServer.xml
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\Microsoft.ApplicationInsights.xml
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\Microsoft.Data.Edm.xml
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\Microsoft.Data.OData.xml
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\Microsoft.OData.Core.xml
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\Microsoft.OData.Edm.xml
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\Microsoft.Owin.xml
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\Microsoft.Owin.Security.xml
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\Microsoft.Owin.Security.Google.xml
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\Microsoft.Practices.ServiceLocation.pdb
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\Microsoft.Practices.ServiceLocation.xml
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\Microsoft.Practices.Unity.xml
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\Microsoft.Practices.Unity.Configuration.xml
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\Microsoft.Practices.Unity.WebApi.xml
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\Microsoft.Spatial.xml
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\Newtonsoft.Json.xml
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\System.Data.SQLite.xml
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\System.Spatial.xml
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\System.Web.Helpers.xml
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\System.Web.Http.OData.xml
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\System.Web.Http.Owin.xml
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\System.Web.Mvc.xml
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\System.Web.OData.xml
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\System.Web.Razor.xml
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\System.Web.WebPages.xml
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\System.Web.WebPages.Deployment.xml
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\System.Web.WebPages.Razor.xml
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\System.Net.Http.Formatting.xml
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\System.Web.Http.xml
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\System.Web.Http.WebHost.xml
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\MongoDB.Driver.xml
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\MongoDB.Driver.Core.xml
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\NHibernate.xml
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\FluentNHibernate.pdb
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\FluentNHibernate.xml
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\MongoDB.Bson.xml
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\Iesi.Collections.xml
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\de\Microsoft.Data.Edm.resources.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\es\Microsoft.Data.Edm.resources.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\it\Microsoft.Data.Edm.resources.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\de\Microsoft.Data.OData.resources.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\es\Microsoft.Data.OData.resources.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\fr\Microsoft.Data.OData.resources.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\it\Microsoft.Data.OData.resources.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\ja\Microsoft.Data.OData.resources.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\ko\Microsoft.Data.OData.resources.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\ru\Microsoft.Data.OData.resources.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\de\Microsoft.OData.Core.resources.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\es\Microsoft.OData.Core.resources.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\fr\Microsoft.OData.Core.resources.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\it\Microsoft.OData.Core.resources.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\ja\Microsoft.OData.Core.resources.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\ko\Microsoft.OData.Core.resources.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\ru\Microsoft.OData.Core.resources.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\zh-Hans\Microsoft.OData.Core.resources.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\zh-Hant\Microsoft.OData.Core.resources.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\de\Microsoft.OData.Edm.resources.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\es\Microsoft.OData.Edm.resources.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\fr\Microsoft.OData.Edm.resources.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\it\Microsoft.OData.Edm.resources.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\ja\Microsoft.OData.Edm.resources.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\ko\Microsoft.OData.Edm.resources.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\ru\Microsoft.OData.Edm.resources.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\zh-Hans\Microsoft.OData.Edm.resources.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\zh-Hant\Microsoft.OData.Edm.resources.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\de\Microsoft.Spatial.resources.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\es\Microsoft.Spatial.resources.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\fr\Microsoft.Spatial.resources.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\it\Microsoft.Spatial.resources.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\ja\Microsoft.Spatial.resources.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\ko\Microsoft.Spatial.resources.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\ru\Microsoft.Spatial.resources.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\zh-Hans\Microsoft.Spatial.resources.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\zh-Hant\Microsoft.Spatial.resources.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\de\System.Spatial.resources.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\es\System.Spatial.resources.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\fr\System.Spatial.resources.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\it\System.Spatial.resources.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\ja\System.Spatial.resources.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\ko\System.Spatial.resources.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\ru\System.Spatial.resources.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\zh-Hans\System.Spatial.resources.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\bin\zh-Hant\System.Spatial.resources.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\obj\Release\WebApplication.csprojResolveAssemblyReference.cache
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\obj\Release\WebApplication.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\WebApplication\obj\Release\WebApplication.pdb

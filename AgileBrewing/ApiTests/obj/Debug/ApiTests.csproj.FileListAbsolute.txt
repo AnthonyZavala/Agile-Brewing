@@ -1,0 +1,26 @@
+D:\Repos\Agile Brewing\AgileBrewing\ApiTests\obj\Debug\ApiTests.csprojResolveAssemblyReference.cache
+D:\Repos\Agile Brewing\AgileBrewing\ApiTests\bin\Debug\ApiTests.dll
+D:\Repos\Agile Brewing\AgileBrewing\ApiTests\bin\Debug\ApiTests.pdb
+D:\Repos\Agile Brewing\AgileBrewing\ApiTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Repos\Agile Brewing\AgileBrewing\ApiTests\bin\Debug\nunit.framework.dll
+D:\Repos\Agile Brewing\AgileBrewing\ApiTests\bin\Debug\System.Net.Http.Formatting.dll
+D:\Repos\Agile Brewing\AgileBrewing\ApiTests\bin\Debug\nunit.framework.xml
+D:\Repos\Agile Brewing\AgileBrewing\ApiTests\bin\Debug\System.Net.Http.Formatting.xml
+D:\Repos\Agile Brewing\AgileBrewing\ApiTests\obj\Debug\ApiTests.dll
+D:\Repos\Agile Brewing\AgileBrewing\ApiTests\obj\Debug\ApiTests.pdb
+D:\Repos\Agile Brewing\AgileBrewing\ApiTests\bin\Debug\ApiTests.dll.config
+D:\Repos\Agile Brewing\AgileBrewing\ApiTests\bin\Debug\Newtonsoft.Json.dll
+D:\Repos\Agile Brewing\AgileBrewing\ApiTests\bin\Debug\Newtonsoft.Json.xml
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\ApiTests\bin\Debug\ApiTests.dll.config
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\ApiTests\bin\Debug\ApiTests.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\ApiTests\bin\Debug\ApiTests.pdb
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\ApiTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\ApiTests\bin\Debug\Newtonsoft.Json.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\ApiTests\bin\Debug\nunit.framework.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\ApiTests\bin\Debug\System.Net.Http.Formatting.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\ApiTests\bin\Debug\Newtonsoft.Json.xml
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\ApiTests\bin\Debug\nunit.framework.xml
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\ApiTests\bin\Debug\System.Net.Http.Formatting.xml
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\ApiTests\obj\Debug\ApiTests.csprojResolveAssemblyReference.cache
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\ApiTests\obj\Debug\ApiTests.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\ApiTests\obj\Debug\ApiTests.pdb

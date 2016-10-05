@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{F9E86AA0-9CC9-4B4A-835C-33D8B97DB6BB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{072D3437-AF37-4215-BC0C-086BEE26D8BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoDBRepositories", "MongoDBRepositories\MongoDBRepositories.csproj", "{349387E7-1275-481C-A3EF-CF636987D7CB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core.UnitTests", "Core.UnitTests\Core.UnitTests.csproj", "{69A4A45F-E1CC-4334-8D74-3FDCA182C067}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication", "WebApplication\WebApplication.csproj", "{F5BB0137-CADE-4D24-8906-7F8CBE188E45}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Repositories", "Repositories", "{C25AF1ED-8824-495F-8214-F48A19CBC29C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQLiteRepositories", "SQLiteRepositories\SQLiteRepositories.csproj", "{ABF3CC6E-3DD2-42B5-8489-F848074C22BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiTests", "ApiTests\ApiTests.csproj", "{9DD4B217-94D1-43D5-BE22-19EAD8230DA4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9E86AA0-9CC9-4B4A-835C-33D8B97DB6BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9E86AA0-9CC9-4B4A-835C-33D8B97DB6BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9E86AA0-9CC9-4B4A-835C-33D8B97DB6BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9E86AA0-9CC9-4B4A-835C-33D8B97DB6BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{349387E7-1275-481C-A3EF-CF636987D7CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{349387E7-1275-481C-A3EF-CF636987D7CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{349387E7-1275-481C-A3EF-CF636987D7CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{349387E7-1275-481C-A3EF-CF636987D7CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69A4A45F-E1CC-4334-8D74-3FDCA182C067}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69A4A45F-E1CC-4334-8D74-3FDCA182C067}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69A4A45F-E1CC-4334-8D74-3FDCA182C067}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69A4A45F-E1CC-4334-8D74-3FDCA182C067}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5BB0137-CADE-4D24-8906-7F8CBE188E45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5BB0137-CADE-4D24-8906-7F8CBE188E45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5BB0137-CADE-4D24-8906-7F8CBE188E45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5BB0137-CADE-4D24-8906-7F8CBE188E45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABF3CC6E-3DD2-42B5-8489-F848074C22BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABF3CC6E-3DD2-42B5-8489-F848074C22BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABF3CC6E-3DD2-42B5-8489-F848074C22BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABF3CC6E-3DD2-42B5-8489-F848074C22BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DD4B217-94D1-43D5-BE22-19EAD8230DA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DD4B217-94D1-43D5-BE22-19EAD8230DA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DD4B217-94D1-43D5-BE22-19EAD8230DA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DD4B217-94D1-43D5-BE22-19EAD8230DA4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{349387E7-1275-481C-A3EF-CF636987D7CB} = {C25AF1ED-8824-495F-8214-F48A19CBC29C}
+		{69A4A45F-E1CC-4334-8D74-3FDCA182C067} = {072D3437-AF37-4215-BC0C-086BEE26D8BB}
+		{ABF3CC6E-3DD2-42B5-8489-F848074C22BC} = {C25AF1ED-8824-495F-8214-F48A19CBC29C}
+		{9DD4B217-94D1-43D5-BE22-19EAD8230DA4} = {072D3437-AF37-4215-BC0C-086BEE26D8BB}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+D:\Repos\Agile Brewing\AgileBrewing\Core\bin\Release\Core.dll
+D:\Repos\Agile Brewing\AgileBrewing\Core\bin\Release\Core.pdb
+D:\Repos\Agile Brewing\AgileBrewing\Core\obj\Release\Core.csprojResolveAssemblyReference.cache
+D:\Repos\Agile Brewing\AgileBrewing\Core\obj\Release\Core.dll
+D:\Repos\Agile Brewing\AgileBrewing\Core\obj\Release\Core.pdb
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\Core\bin\Release\Core.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\Core\bin\Release\Core.pdb
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\Core\obj\Release\Core.csprojResolveAssemblyReference.cache
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\Core\obj\Release\Core.dll
+D:\Repos\GitHub\Agile-Brewing\AgileBrewing\Core\obj\Release\Core.pdb
